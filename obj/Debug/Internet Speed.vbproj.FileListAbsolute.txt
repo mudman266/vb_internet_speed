@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter6\Internet Speed\bin\Debug\Internet Speed.exe.config
+C:\School\CSC-139\Chapter6\Internet Speed\bin\Debug\Internet Speed.exe
+C:\School\CSC-139\Chapter6\Internet Speed\bin\Debug\Internet Speed.pdb
+C:\School\CSC-139\Chapter6\Internet Speed\bin\Debug\Internet Speed.xml
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet Speed.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet_Speed.frmMain.resources
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet_Speed.Resources.resources
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet Speed.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet Speed.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet Speed.exe
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet Speed.xml
+C:\School\CSC-139\Chapter6\Internet Speed\obj\Debug\Internet Speed.pdb
